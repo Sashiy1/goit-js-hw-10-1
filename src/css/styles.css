@@ -60,6 +60,7 @@ ul {
   padding: 8px;
   font-size: 16px;
   margin-bottom: 10px;
+  margin-left: 60px;
 }
 
 #datetime-picker[disabled] {
@@ -90,6 +91,7 @@ button[data-start][disabled] {
 .timer {
   display: flex;
   gap: 24px;
+  margin-left: 60px;
 }
 
 .field {
